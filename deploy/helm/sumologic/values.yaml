@@ -604,7 +604,7 @@ prometheus-operator:
 ## Configure falco
 ## ref: https://github.com/helm/charts/blob/master/stable/falco/values.yaml
 falco:
-  enabled: true
+  enabled: false
   #ebpf:
   #  enabled: true
   falco:
